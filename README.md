@@ -1,16 +1,16 @@
-## Hi there 👋
+# ⚡ Quantitative Developer & ML Systems Architect
 
-<!--
-**GiTaDi-CrEaTe/GiTaDi-CrEaTe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build high-performance algorithmic trading systems, engineer machine learning pipelines, and contribute to Tier-1 open-source data science infrastructure. 
 
-Here are some ideas to get you started:
+Currently architecting an 8-dimensional neural execution engine for cryptocurrency markets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚔️ Active Operations & Open Source
+I actively patch and fortify the core infrastructure of the Python data science ecosystem.
+
+### 🧠 Core Architecture & Stack
+* **Languages:** Python, SQL, C++, TypeScript
+* **Data & ML:** Pandas, Scikit-Learn, PyTorch, NumPy
+* **Infrastructure:** PostgreSQL, CI/CD Pipelines, GitHub Actions, PyArrow
+* **Quantitative:** Volatility-based breakouts, MACD/RSI custom implementations, JSON API websocket streaming
+
+*"Open-source warfare is 20% writing code and 80% waiting on CI/CD pipelines."*
