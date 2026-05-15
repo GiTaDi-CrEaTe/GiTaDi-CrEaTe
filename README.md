@@ -8,7 +8,7 @@ Currently architecting an 8-dimensional neural execution engine for cryptocurren
 I actively patch and fortify the core infrastructure of the Python data science ecosystem.
 
 ### 🧠 Core Architecture & Stack
-* **Languages:** Python, SQL, C++, TypeScript
+* **Languages:** Python, SQL, C++, TypeScript,JAVA,JS
 * **Data & ML:** Pandas, Scikit-Learn, PyTorch, NumPy
 * **Infrastructure:** PostgreSQL, CI/CD Pipelines, GitHub Actions, PyArrow
 * **Quantitative:** Volatility-based breakouts, MACD/RSI custom implementations, JSON API websocket streaming
