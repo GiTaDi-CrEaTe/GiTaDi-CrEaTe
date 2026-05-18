@@ -43,18 +43,6 @@
 * **`[ Layer-20 Quant ]`** - Building layered algorithmic pipelines fusing real-time PostgreSQL data streams with custom mathematical metrics (RSI, MACD, and volatility-based breakout clusters).
 * **`[ C-Engine Profiling ]`** - Deep-level hunting of memory leaks, reference tracking anomalies, and CPU thread-locking within Python's underlying Cython/C computation layers.
 
----
-
-### ⚙️ TIER-1 OPTIMIZATION PROTOCOLS // CORE PR RECEIPTS
-
-**`[ Target: pandas-dev/pandas ]`**
-> Audited and secured Copy-on-Write (CoW) memory perimeters within the `pandas.core.computation` engine. Patched critical, silent data corruption vulnerabilities bypassing tracking metadata during `inplace=True` C-engine evaluations (**PR #65675 / Issue #65664**).
-
-**`[ Target: scikit-learn/scikit-learn ]`**
-> Engineered global dataset-size heuristics to neutralize OpenMP multi-threading overhead in lightweight matrix operations. Integrated foundational numerical gradient checks directly into the core solver architecture.
-
----
-
 <div align="center">
 
 ### 📊 ADVANCED TELEMETRY CLUSTER // LIVE DATA STREAMS
