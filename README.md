@@ -43,5 +43,17 @@
 * **`[ Layer-20 Quant ]`** - Building layered algorithmic pipelines fusing real-time PostgreSQL data streams with custom mathematical metrics (RSI, MACD, and volatility-based breakout clusters).
 * **`[ C-Engine Profiling ]`** - Deep-level hunting of memory leaks, reference tracking anomalies, and CPU thread-locking within Python's underlying Cython/C computation layers.
 
+### 📊 ADVANCED TELEMETRY CLUSTER // LIVE DATA STREAMS
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GiTaDi-CrEaTe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00FFCC&text_color=c9d1d9&title_color=00FFCC" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiTaDi-CrEaTe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=00FFCC" width="49%" />
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GiTaDi-CrEaTe&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakNum=00FFCC&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="49%" />
+<img src="https://github-profile-trophies.vercel.app/?username=GiTaDi-CrEaTe&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="49%" />
+</p>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GiTaDi-CrEaTe&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&area=true&hide_border=true" width="100%" />
 <div align="center">
+  
 </div>
