@@ -1,12 +1,18 @@
 <div align="center">
 
+<h1><code>⚡[ADI] // GiTaDi-CrEaTe ⚡</code></h1>
+
 <a href="https://github.com/GiTaDi-CrEaTe">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=System+Optimization+Architect;Tier-1+Open+Source+Contributor;Neural+Execution+Engine+Builder;Architecting+the+Apex+Predator" alt="Typing SVG" />
 </a>
 
 <br>
 
-*Efficiency is not a feature. It is the mathematical foundation.*
+<img src="https://komarev.com/ghvc/?username=GiTaDi-CrEaTe&label=OPERATIONAL%20TRAFFIC&color=00ffcc&style=flat-square" alt="Profile Views" />
+
+<br><br>
+<i>"Efficiency is not a feature. It is the mathematical foundation."</i>
+<br><br>
 
 ---
 
@@ -33,24 +39,28 @@
 
 </div>
 
+### 🛠️ LIVE INFRASTRUCTURE & NEURAL SYSTEMS
 
-### 🧠 LIVE INFRASTRUCTURE & NEURAL SYSTEMS
+* **`[ Project Obsidian ]`** - Architecting the **"Apex Predator"**, an 8-dimensional neural execution engine actively integrated with live crypto testnets for micro-second predictive trading.
+* **`[ Layer-20 Quant ]`** - Building layered algorithmic pipelines fusing real-time PostgreSQL data streams with custom mathematical metrics (RSI, MACD, and volatility-based breakout clusters).
+* **`[ C-Engine Profiling ]`** - Deep-level hunting of memory leaks, reference tracking anomalies, and CPU thread-locking within Python's underlying Cython/C computation layers.
 
-* **[ Project Obsidian ]** - Architecting the "Apex Predator," an 8-dimensional neural execution engine actively integrated with live crypto testnets for micro-second predictive trading.
-* **[ Layer-20 Quant ]** - Building layered algorithmic pipelines fusing real-time PostgreSQL data streams with volatility breakouts and MACD/RSI clustering.
-* **[ C-Engine Profiling ]** - Deep-level hunting of memory leaks and CPU thread-locking in Python's underlying Cython/C computation layers.
 
 <div align="center">
 
----
-
-### 📊 TELEMETRY & VECTOR STATS
+### 📊 ADVANCED TELEMETRY & VECTOR METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiTaDi-CrEaTe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00FFCC&text_color=c9d1d9&title_color=00FFCC" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiTaDi-CrEaTe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=00FFCC" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GiTaDi-CrEaTe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00FFCC&text_color=c9d1d9&title_color=00FFCC" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiTaDi-CrEaTe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=00FFCC" width="49%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiTaDi-CrEaTe&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakNum=00FFCC&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="49%" />
+  <img src="https://github-profile-trophies.vercel.app/?username=GiTaDi-CrEaTe&theme=tokyonight&column=3&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="49%" />
+</p>
+
+<br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiTaDi-CrEaTe&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
