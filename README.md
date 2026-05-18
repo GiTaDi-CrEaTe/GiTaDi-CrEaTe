@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=00ffcc&height=250&section=header&text=ADITYAJYOTI%20KAR&fontSize=50&fontColor=00ffcc&animation=rect" width="100%" />
+<h1>⚡ADI // GiTaDi-CrEaTe //⚡</h1>
 
 <a href="https://github.com/GiTaDi-CrEaTe">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=00FFCC&center=true&vCenter=true&width=900&height=100&lines=%5B%2B%5D+INITIALIZING+MASTER+CREATOR+PROTOCOLS...;%5B%2B%5D+ESTABLISHING+DIRECT+C-ENGINE+TUNNELS...;%5B%2B%5D+CORE+TARGET%3A+pandas-dev%2Fpandas+%5BPR%2365675+SECURED%5D;%5B%2B%5D+CORE+TARGET%3A+scikit-learn%2Fscikit-learn+%5BOPENMP+OPTIMIZED%5D;%5B%2B%5D+RUNNING+OBSIDIAN+APEX+PREDATOR+NEURAL+ENGINE...;%5B%2B%5D+SYSTEM+STATUS%3A+MAXIMUM+VELOCITY" alt="System Boot Logs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=00FFCC&center=true&vCenter=true&width=1100&height=120&lines=%5B%2B%5D+INITIALIZING+ADI+PROTOCOLS...;%5B%2B%5D+ESTABLISHING+DIRECT+C-ENGINE+TUNNELS...;%5B%2B%5D+CORE+TARGET%3A+pandas-dev%2Fpandas+%5BPR%2365675+SECURED%5D;%5B%2B%5D+CORE+TARGET%3A+scikit-learn%2Fscikit-learn+%5BOPENMP+OPTIMIZED%5D;%5B%2B%5D+DEPLOYING+OBSIDIAN+APEX+PREDATOR+NEURAL+ENGINE...;%5B%2B%5D+SYSTEM+STATUS%3A+MAXIMUM+VELOCITY" alt="Adi Boot diagnostic Logs" />
 </a>
 
 <br>
@@ -43,9 +43,21 @@
 * **`[ Layer-20 Quant ]`** - Building layered algorithmic pipelines fusing real-time PostgreSQL data streams with custom mathematical metrics (RSI, MACD, and volatility-based breakout clusters).
 * **`[ C-Engine Profiling ]`** - Deep-level hunting of memory leaks, reference tracking anomalies, and CPU thread-locking within Python's underlying Cython/C computation layers.
 
+---
+
+### ⚙️ TIER-1 OPTIMIZATION PROTOCOLS // CORE PR RECEIPTS
+
+**`[ Target: pandas-dev/pandas ]`**
+> Audited and secured Copy-on-Write (CoW) memory perimeters within the `pandas.core.computation` engine. Patched critical, silent data corruption vulnerabilities bypassing tracking metadata during `inplace=True` C-engine evaluations (**PR #65675 / Issue #65664**).
+
+**`[ Target: scikit-learn/scikit-learn ]`**
+> Engineered global dataset-size heuristics to neutralize OpenMP multi-threading overhead in lightweight matrix operations. Integrated foundational numerical gradient checks directly into the core solver architecture.
+
+---
+
 <div align="center">
 
-### 📊 SYSTEM TELEMETRY & ANIMATED DATA STREAMS
+### 📊 ADVANCED TELEMETRY CLUSTER // LIVE DATA STREAMS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GiTaDi-CrEaTe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00FFCC&text_color=c9d1d9&title_color=00FFCC" width="49%" />
