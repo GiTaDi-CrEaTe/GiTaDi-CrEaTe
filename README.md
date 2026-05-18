@@ -1,22 +1,20 @@
 <div align="center">
 
-<h1><code>⚡[ADI] // GiTaDi-CrEaTe ⚡</code></h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=00ffcc&height=250&section=header&text=ADITYAJYOTI%20KAR&fontSize=50&fontColor=00ffcc&animation=rect" width="100%" />
 
 <a href="https://github.com/GiTaDi-CrEaTe">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=System+Optimization+Architect;Tier-1+Open+Source+Contributor;Neural+Execution+Engine+Builder;Architecting+the+Apex+Predator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=00FFCC&center=true&vCenter=true&width=900&height=100&lines=%5B%2B%5D+INITIALIZING+MASTER+CREATOR+PROTOCOLS...;%5B%2B%5D+ESTABLISHING+DIRECT+C-ENGINE+TUNNELS...;%5B%2B%5D+CORE+TARGET%3A+pandas-dev%2Fpandas+%5BPR%2365675+SECURED%5D;%5B%2B%5D+CORE+TARGET%3A+scikit-learn%2Fscikit-learn+%5BOPENMP+OPTIMIZED%5D;%5B%2B%5D+RUNNING+OBSIDIAN+APEX+PREDATOR+NEURAL+ENGINE...;%5B%2B%5D+SYSTEM+STATUS%3A+MAXIMUM+VELOCITY" alt="System Boot Logs" />
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghvc/?username=GiTaDi-CrEaTe&label=OPERATIONAL%20TRAFFIC&color=00ffcc&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghvc/?username=GiTaDi-CrEaTe&label=OPERATIONAL%20TRAFFIC%20%2F%2F%20NETWORK%20LOAD&color=00ffcc&style=flat-square" alt="Network Load Counter" />
 
-<br><br>
-<i>"Efficiency is not a feature. It is the mathematical foundation."</i>
 <br><br>
 
 ---
 
-### 🌐 COMMAND MATRIX // TECH STACK
+### 🌐 COMMAND MATRIX // SYSTEM TECH STACK
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FFCC" />
@@ -45,10 +43,9 @@
 * **`[ Layer-20 Quant ]`** - Building layered algorithmic pipelines fusing real-time PostgreSQL data streams with custom mathematical metrics (RSI, MACD, and volatility-based breakout clusters).
 * **`[ C-Engine Profiling ]`** - Deep-level hunting of memory leaks, reference tracking anomalies, and CPU thread-locking within Python's underlying Cython/C computation layers.
 
-
 <div align="center">
 
-### 📊 ADVANCED TELEMETRY & VECTOR METRICS
+### 📊 SYSTEM TELEMETRY & ANIMATED DATA STREAMS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GiTaDi-CrEaTe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00FFCC&text_color=c9d1d9&title_color=00FFCC" width="49%" />
