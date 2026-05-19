@@ -66,3 +66,9 @@ I am a quantitative developer and ML practitioner with a focus on high-frequency
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/GiTaDi-CrEaTe/GiTaDi-CrEaTe/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=GiTaDi-CrEaTe&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</p>
