@@ -71,6 +71,10 @@ I am a quantitative developer and ML practitioner with a focus on high-frequency
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=GiTaDi-CrEaTe&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
+  ### 🛰️ System Analytics (Last 14 Days)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GiTaDi-CrEaTe/GiTaDi-CrEaTe/main/jarvis-habits.svg" alt="Habits Matrix" />
+</p>
 </p>
 🏙️ My Contribution City
 <p align="center">
