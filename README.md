@@ -51,4 +51,9 @@ I am a quantitative developer and ML practitioner with a focus on high-frequency
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiTaDi-CrEaTe&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiTaDi-CrEaTe&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
