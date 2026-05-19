@@ -1,15 +1,16 @@
 name: Generate Snake Animation
 
 on:
-  # Run automatically every 24 hours
   schedule:
     - cron: "0 0 * * *" 
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-  # Run on every push to the main branch
   push:
     branches:
     - main
+
+# 🔓 THE FIX: Grant the action permission to push code
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -26,7 +27,8 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        # 🚀 THE FIX: Bumped to v4 to clear the Node.js 20 warning
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
