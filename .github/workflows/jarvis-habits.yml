@@ -1,0 +1,28 @@
+name: Generate JARVIS HUD (Habits)
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: jarvis-habits.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          config_timezone: Asia/Kolkata # Calibrated to IST
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
