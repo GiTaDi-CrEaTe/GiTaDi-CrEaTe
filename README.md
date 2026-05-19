@@ -72,3 +72,6 @@ I am a quantitative developer and ML practitioner with a focus on high-frequency
     <img src="https://github-profile-trophy.vercel.app/?username=GiTaDi-CrEaTe&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiTaDi-CrEaTe&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
