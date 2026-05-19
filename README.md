@@ -40,6 +40,9 @@ I am a quantitative developer and ML practitioner with a focus on high-frequency
 * 🚀 Pushed code to `whanyu1212/QuantRL-Lab` (Feature: Crypto Data Fetcher)
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Lines_of_Code_Written-150,000+-2ea44f?style=for-the-badge&logo=github&color=36BCF7" alt="Lines of code" />
+  </p>
 
 ### ⏱️ Live Coding Telemetry
 <p align="center">
@@ -92,10 +95,4 @@ I am a quantitative developer and ML practitioner with a focus on high-frequency
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/GiTaDi-CrEaTe/GiTaDi-CrEaTe/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-### 🛰️ System Analytics (Last 14 Days)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GiTaDi-CrEaTe/GiTaDi-CrEaTe/main/jarvis-habits.svg" alt="Habits Matrix" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Lines_of_Code_Written-150,000+-2ea44f?style=for-the-badge&logo=github&color=36BCF7" alt="Lines of code" />
-  </p>
+
