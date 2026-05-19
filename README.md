@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&height=100&lines=>+Initializing+Obsidian+Apex+Predator...;>+Loading+Neural+Execution+Engines...;>+Deploying+Algorithmic+Trading+Systems...;>+System+Online.+Welcome,+GiTaDi-CrEaTe." alt="Terminal Boot Sequence" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=Quantitative+Developer+%7C+ML+Engineer;Architecting+Algorithmic+Trading+Systems;Optimizing+Python+Data+Pipelines;Open-Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,9 +35,19 @@ I am a quantitative developer and ML practitioner with a focus on high-frequency
 
 ---
 
-### ⚡ Recent Activity (TODAY)
+### ⚡ Recent Activity
 * 🚀 Pushed code to `whanyu1212/QuantRL-Lab` (Feature: Volatility Observation Strategy)
 * 🚀 Pushed code to `whanyu1212/QuantRL-Lab` (Feature: Crypto Data Fetcher)
+
+---
+
+### ⏱️ Live Coding Telemetry
+<p align="center">
+  <a href="https://wakatime.com/@Adi00x1add">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=radical&hide_border=true" alt="WakaTime Stats" />
+  </a>
+</p>
+
 ---
 
 ### 📊 GitHub Statistics
@@ -51,35 +61,34 @@ I am a quantitative developer and ML practitioner with a focus on high-frequency
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiTaDi-CrEaTe&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiTaDi-CrEaTe&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GiTaDi-CrEaTe/GiTaDi-CrEaTe/main/top-langs.svg" alt="Top Languages" />
+</p>
+
 ---
 
-### code-eating snake
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=GiTaDi-CrEaTe&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</p>
+
+---
+
+### 🏙️ Contribution City & 🐍 Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GiTaDi-CrEaTe/GiTaDi-CrEaTe/main/profile-3d-contrib/profile-night-view.svg" alt="3D Graph" />
+</p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiTaDi-CrEaTe/GiTaDi-CrEaTe/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiTaDi-CrEaTe/GiTaDi-CrEaTe/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/GiTaDi-CrEaTe/GiTaDi-CrEaTe/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
-🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GiTaDi-CrEaTe&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-  ### 🛰️ System Analytics (Last 14 Days)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GiTaDi-CrEaTe/GiTaDi-CrEaTe/main/jarvis-habits.svg" alt="Habits Matrix" />
-</p>
-</p>
-🏙️ My Contribution City
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GiTaDi-CrEaTe/GiTaDi-CrEaTe/main/profile-3d-contrib/profile-night-view.svg" alt="3D Graph" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GiTaDi-CrEaTe/GiTaDi-CrEaTe/main/top-langs.svg" alt="Top Languages" />
 </p>
