@@ -52,7 +52,7 @@ My primary directive is engineering high-performance financial models and scalab
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Lines_of_Code-560,078+-4c1?style=flat-square&logo=github&logoColor=white" alt="Lines of Code" />
+  <img src="https://img.shields.io/badge/Lines_of_Code-1060,078+-4c1?style=flat-square&logo=github&logoColor=white" alt="Lines of Code" />
 </p>
 
 <p align="center">
