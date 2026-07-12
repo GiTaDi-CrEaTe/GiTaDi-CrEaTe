@@ -19,17 +19,48 @@ I am an independent developer and machine learning researcher specializing in al
 
 My primary directive is engineering high-performance models and scalable automated systems. I am currently architecting "Project AEGIS," a multi-layered neural engine designed for "REVOLUTION IN AI"(kEEPING IT HYPE NOW AS ITS BEING TESTED".
 
-**Languages & Tools:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-</p>
+### 🛠️ Tech Stack & Skills
+
+#### 🤖 Artificial Intelligence & Machine Learning
+![Python](https://shields.io)
+![PyTorch](https://shields.io)
+![TensorFlow](https://shields.io)
+![Hugging Face](https://shields.io)
+![JAX](https://shields.io)
+![OpenCV](https://shields.io)
+![scikit-learn](https://shields.io)
+![Keras](https://shields.io)
+![LangChain](https://shields.io)
+![Ollama](https://shields.io)
+![OpenAI](https://shields.io)
+
+#### 📊 Data Science, Analytics & Vector DBs
+![Pandas](https://shields.io)
+![NumPy](https://shields.io)
+![Apache Spark](https://shields.io)
+![Milvus](https://shields.io)
+![Pinecone](https://shields.io)
+![ChromaDB](https://shields.io)
+
+#### 🗄️ Databases, Backend & Languages
+![Java](https://shields.io)
+![JavaScript](https://shields.io)
+![PostgreSQL](https://shields.io)
+![MySQL](https://shields.io)
+![MongoDB](https://shields.io)
+![Redis](https://shields.io)
+![FastAPI](https://shields.io)
+![Flask](https://shields.io)
+
+#### 🐳 DevOps, Cloud & MLOps
+![Docker](https://shields.io)
+![Kubernetes](https://shields.io)
+![MLflow](https://shields.io)
+![Weights & Biases](https://shields.io)
+![AWS](https://shields.io)
+![GCP](https://shields.io)
+![Linux](https://shields.io)
+![Git](https://shields.io)
 
 ---
 
