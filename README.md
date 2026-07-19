@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Adi</h1>
-<h3 align="center">Independent Coder and researcher | Artificial Intelligence ( General, Super ) Enthusiast | India</h3>
+<h3 align="center">Independent Coder and researcher | Artificial Intelligence Enthusiast | India</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -15,9 +15,9 @@
 
 ### 👨‍💻 A little more about me...
 
-I am an independent developer and machine learning researcher specializing in algorithmic trading architectures. Operating out of West Bengal, I focus on bridging the gap between advanced mathematical theory and real wrold execution.
+I am an independent developer and machine learning researcher specializing in AI architectures. Operating out of West Bengal, I focus on bridging the gap between advanced mathematical theory and real wrold execution.
 
-My primary directive is engineering high-performance models and scalable automated systems. I am currently architecting "Project AEGIS," a multi-layered neural engine designed for "REVOLUTION IN AI"(kEEPING IT HYPE NOW AS ITS BEING TESTED".
+My primary directive is engineering high-performance models and scalable automated systems. I am currently architecting "Project AEGIS," a multi-layered Cybernetic Organism, a nine layer nervous system
 
 ### 🛠️ Tech Stack & Skills
 
