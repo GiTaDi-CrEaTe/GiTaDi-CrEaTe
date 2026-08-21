@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=36BCF7&center=true&vCenter=true&width=560&height=40&lines=CS+fundamentals;Math+first%2C+then+code;India" alt="typing animation" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-GiTaDi--CrEaTe-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GiTaDi-CrEaTe)
-[![Email](https://img.shields.io/badge/Email-kar323834%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kar323834@gmail.com)
+[![Email](https://img.shields.io/badge/Email-adityajyotikar01%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kar323834@gmail.com)
 
 </div>
 
