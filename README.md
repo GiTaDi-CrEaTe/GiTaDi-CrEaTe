@@ -11,13 +11,13 @@
 
 <br>
 
-I work on the theoretical foundations of computer science — algorithms, linear algebra, probability, and machine learning — and I build things by deriving them, not by importing them. If a problem can be solved by calling `.fit()`, I'd rather first understand what's happening inside the call.
+I work on the theoretical foundations of computer science — algorithms, linear algebra, probability, and machine learning and I build things by deriving them, not by importing them. If a problem can be solved by calling `.fit()`, I'd rather first understand what's happening inside the call.
 
 <br>
 
 ## Currently building — [MIT-OCW-Portfolio](https://github.com/GiTaDi-CrEaTe/MIT-OCW-Portfolio)
 
-A self-directed study through six MIT OpenCourseWare subjects — discrete math, linear algebra, algorithms, probability, machine learning, and AI search — where every core algorithm is implemented from first principles: **NumPy only, no scikit-learn, no PyTorch.**
+A self-directed study through six MIT OpenCourseWare subjects — discrete math, linear algebra, algorithms, probability, machine learning, and AI search where every core algorithm is implemented from first principles: **NumPy only, no scikit-learn, no PyTorch.**
 
 Why build it this way:
 
