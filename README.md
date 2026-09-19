@@ -17,12 +17,12 @@ I work on the theoretical foundations of computer science — algorithms, linear
 
 ## Currently building — [MIT-OCW-Portfolio](https://github.com/GiTaDi-CrEaTe/MIT-OCW-Portfolio)
 
-A self-directed study through six MIT OpenCourseWare subjects — discrete math, linear algebra, algorithms, probability, machine learning, and AI search where every core algorithm is implemented from first principles: **NumPy only, no scikit-learn, no PyTorch.**
+A self-directed study through six MIT OpenCourseWare subjects discrete math, linear algebra, algorithms, probability, machine learning, and AI search where every core algorithm is implemented from first principles: **NumPy only**
 
 Why build it this way:
 
-- **A library call proves you can use a tool. A from-scratch implementation proves you understand what the tool is doing.** Writing backpropagation by hand means deriving every gradient via the chain rule — not trusting autograd to get it right.
-- **Every script verifies itself against ground truth**, not just "the output looks reasonable." The neural net's hand-derived gradients are checked against finite-difference approximation. The from-scratch SVD is checked against `numpy.linalg`. Dijkstra is checked against brute-force relaxation. A* is checked against Dijkstra for optimality while counting the nodes it saves.
+- **A library call proves you can use a tool. A from-scratch implementation proves you understand what the tool is doing.** Writing backpropagation by hand means deriving every gradient via the chain rule not trusting autograd to get it right.
+- **Every script verifies itself against ground truth**, not just "the output looks reasonable." The neural net's hand-derived gradients are checked against finite-difference approximation. The from scratch SVD is checked against `numpy.linalg`. Dijkstra is checked against brute-force relaxation. A* is checked against Dijkstra for optimality while counting the nodes it saves.
 - **The proof is in numbers, not adjectives** — e.g. a linear classifier fails at 54.7% accuracy on a task a 2-hidden-layer network solves at 100%, demonstrating *why* non-linearity matters instead of asserting it.
 
 <br>
