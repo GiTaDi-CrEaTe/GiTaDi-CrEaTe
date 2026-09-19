@@ -106,12 +106,6 @@ Added a test verifying that `to_parquet` / `read_parquet` correctly round-trips 
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@Adi00x1add">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Adi00x1add&layout=compact&theme=radical&hide_border=true" alt="WakaTime Stats" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GiTaDi-CrEaTe&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiTaDi-CrEaTe&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
